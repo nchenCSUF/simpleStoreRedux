@@ -1,2 +1,0 @@
-# simpleStoreRedux
-Created with CodeSandbox

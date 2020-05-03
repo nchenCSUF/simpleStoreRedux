@@ -1,0 +1,18 @@
+{
+  "name": "image-search-redux",
+  "version": "1.0.0",
+  "description": "reduxbook.com example",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "preact": "8.x.x",
+    "redux": "3.x.x"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
